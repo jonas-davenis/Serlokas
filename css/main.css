@@ -1,4 +1,21 @@
 body {
     height: 100vh;
-    background-color: EAEBED;
+    background-color: #EAEBED;
+}
+.conteiner {
+    display: inline-block;
+    width: 800px;
+    margin-left: calc(100% - 800px) / 2);
+    margin-top: calc((100vh - 400px) / 2);
+}
+.kaire {
+    display: inline-block;
+    width: 50%;
+    float: left;
+}
+.desine {
+    display: inline-block;
+    width: 50%;
+    float: left;
+    text-align: center;
 }
