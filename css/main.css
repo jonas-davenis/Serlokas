@@ -19,3 +19,19 @@ body {
     float: left;
     text-align: center;
 }
+h1 {
+    display: inline-block;
+    width: 100%;
+    font-size: 50px;
+    margin-bottom: 10px;
+}
+p {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 20px;
+    font-size: 25px;
+    color: #686D8A;
+}
+.small {
+    font-size: 15px;
+}
